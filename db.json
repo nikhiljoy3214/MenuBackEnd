@@ -1,0 +1,160 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Luminar Onam",
+      "thumbnail": "https://i.postimg.cc/rmKgy972/MV5-BNj-M0-Yz-E0-M2-Mt-NWUy-Zi00-OWE3-LWJj-Yzct-ZDlm-Y2-Nm-NTdi-MDJh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE3-NTk1-Nzc1-V1.jpg",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "lmzzg307",
+      "caption": "BICEP WORK OUT",
+      "thumbnail": "https://i.postimg.cc/vZZFq8zJ/bodybuilding-tips.jpg",
+      "url": "https://www.youtube.com/embed/mQPh-QYrp3E"
+    },
+    {
+      "id": "lmzzhmd3",
+      "caption": "Heeriye (Official Video) Jasleen Royal ft Arijit Singh| Dulquer Salmaan",
+      "thumbnail": "https://i.ytimg.com/vi/oxvq9jiLjw4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/4vSFXTEP35Q"
+    },
+    {
+      "id": "ln0jmsrw",
+      "caption": "Dhyan Sreenivasan Exclusive Special Interview",
+      "thumbnail": "https://i.ytimg.com/vi/1ORo06DhFrY/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/1ORo06DhFrY"
+    },
+    {
+      "id": "ln0jp0cc",
+      "caption": "August 2023 Monthly Current Affairs 2023 Best 500 MCQ - August 2023",
+      "thumbnail": "https://i.ytimg.com/vi/Iz6veUV8a_o/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/Iz6veUV8a_o"
+    },
+    {
+      "id": "ln1bp8mn",
+      "caption": "Neela Nilave - Video Song | RDX ",
+      "thumbnail": "https://timesofindia.indiatimes.com/photo/msid-103197447,imgsize-182005.cms",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "ln1cd4ss",
+      "caption": "27 September 2023 Current Affairs MCQ for All Govt Exams",
+      "thumbnail": "https://i.ytimg.com/vi/6RvxB_cu5lU/sddefault.jpg?v=65137e3d",
+      "url": "https://www.youtube.com/embed/6RvxB_cu5lU"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "education",
+      "allVideos": []
+    },
+    {
+      "id": "2",
+      "name": "Songs",
+      "allVideos": [
+        {
+          "id": 1,
+          "caption": "Luminar Onam",
+          "thumbnail": "https://i.postimg.cc/rmKgy972/MV5-BNj-M0-Yz-E0-M2-Mt-NWUy-Zi00-OWE3-LWJj-Yzct-ZDlm-Y2-Nm-NTdi-MDJh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE3-NTk1-Nzc1-V1.jpg",
+          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
+        },
+        {
+          "id": "lmzzhmd3",
+          "caption": "Heeriye (Official Video) Jasleen Royal ft Arijit Singh| Dulquer Salmaan",
+          "thumbnail": "https://i.ytimg.com/vi/oxvq9jiLjw4/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/4vSFXTEP35Q"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Work out videos",
+      "allVideos": []
+    },
+    {
+      "id": "4",
+      "name": "Interviews",
+      "allVideos": []
+    },
+    {
+      "id": "AjCRTLP",
+      "name": "Sports",
+      "allVideos": []
+    }
+  ],
+  "histories": [
+    {
+      "id": "ln9zguga",
+      "cardName": "27 September 2023 Current Affairs by GK Today",
+      "url": "https://www.youtube.com/embed/X4RGrYhoICU",
+      "date": "October 276th 2023,12:43:27 PM"
+    },
+    {
+      "id": "ln9zj8p7",
+      "cardName": "Dhyan Sreenivasan Exclusive Special Interview",
+      "url": "https://www.youtube.com/embed/1ORo06DhFrY",
+      "date": "October 276th 2023,12:45:19 PM"
+    },
+    {
+      "id": "ln9znm9o",
+      "cardName": "27 September 2023 Current Affairs MCQ for All Govt Exams",
+      "url": "https://www.youtube.com/embed/6RvxB_cu5lU",
+      "date": "October 276th 2023,12:48:43 PM"
+    },
+    {
+      "id": "lnbbnad6",
+      "cardName": "Heeriye (Official Video) Jasleen Royal ft Arijit Singh| Dulquer Salmaan",
+      "url": "https://www.youtube.com/embed/4vSFXTEP35Q",
+      "date": "October 277th 2023,11:12:09 AM"
+    },
+    {
+      "id": "lnbbnib0",
+      "cardName": "August 2023 Monthly Current Affairs 2023 Best 500 MCQ - August 2023",
+      "url": "https://www.youtube.com/embed/Iz6veUV8a_o",
+      "date": "October 277th 2023,11:12:20 AM"
+    },
+    {
+      "id": "lnbbo44c",
+      "cardName": "Neela Nilave - Video Song | RDX ",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "October 277th 2023,11:12:48 AM"
+    },
+    {
+      "id": "lnbbocdo",
+      "cardName": "Luminar Onam",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "October 277th 2023,11:12:59 AM"
+    },
+    {
+      "id": "lnbbox70",
+      "cardName": "Luminar Onam",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "October 277th 2023,11:13:26 AM"
+    },
+    {
+      "id": "lnbbr63p",
+      "cardName": "Luminar Onam",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "October 277th 2023,11:15:11 AM"
+    },
+    {
+      "id": "lnbbu3mj",
+      "cardName": "BICEP WORK OUT",
+      "url": "https://www.youtube.com/embed/mQPh-QYrp3E",
+      "date": "October 277th 2023,11:17:27 AM"
+    },
+    {
+      "id": "lnbchui4",
+      "cardName": "Luminar Onam",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "October 277th 2023,11:35:55 AM"
+    },
+    {
+      "id": "lnbfm8o8",
+      "cardName": "Luminar Onam",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "date": "October 277th 2023,1:03:19 PM"
+    }
+  ]
+}
