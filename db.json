@@ -1,160 +1,333 @@
 {
-  "videos": [
-    {
-      "id": 1,
-      "caption": "Luminar Onam",
-      "thumbnail": "https://i.postimg.cc/rmKgy972/MV5-BNj-M0-Yz-E0-M2-Mt-NWUy-Zi00-OWE3-LWJj-Yzct-ZDlm-Y2-Nm-NTdi-MDJh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE3-NTk1-Nzc1-V1.jpg",
-      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
-    },
-    {
-      "id": "lmzzg307",
-      "caption": "BICEP WORK OUT",
-      "thumbnail": "https://i.postimg.cc/vZZFq8zJ/bodybuilding-tips.jpg",
-      "url": "https://www.youtube.com/embed/mQPh-QYrp3E"
-    },
-    {
-      "id": "lmzzhmd3",
-      "caption": "Heeriye (Official Video) Jasleen Royal ft Arijit Singh| Dulquer Salmaan",
-      "thumbnail": "https://i.ytimg.com/vi/oxvq9jiLjw4/maxresdefault.jpg",
-      "url": "https://www.youtube.com/embed/4vSFXTEP35Q"
-    },
-    {
-      "id": "ln0jmsrw",
-      "caption": "Dhyan Sreenivasan Exclusive Special Interview",
-      "thumbnail": "https://i.ytimg.com/vi/1ORo06DhFrY/maxresdefault.jpg",
-      "url": "https://www.youtube.com/embed/1ORo06DhFrY"
-    },
-    {
-      "id": "ln0jp0cc",
-      "caption": "August 2023 Monthly Current Affairs 2023 Best 500 MCQ - August 2023",
-      "thumbnail": "https://i.ytimg.com/vi/Iz6veUV8a_o/maxresdefault.jpg",
-      "url": "https://www.youtube.com/embed/Iz6veUV8a_o"
-    },
-    {
-      "id": "ln1bp8mn",
-      "caption": "Neela Nilave - Video Song | RDX ",
-      "thumbnail": "https://timesofindia.indiatimes.com/photo/msid-103197447,imgsize-182005.cms",
-      "url": "https://www.youtube.com/embed/nYEoxne_20Y"
-    },
-    {
-      "id": "ln1cd4ss",
-      "caption": "27 September 2023 Current Affairs MCQ for All Govt Exams",
-      "thumbnail": "https://i.ytimg.com/vi/6RvxB_cu5lU/sddefault.jpg?v=65137e3d",
-      "url": "https://www.youtube.com/embed/6RvxB_cu5lU"
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "name": "education",
-      "allVideos": []
-    },
-    {
-      "id": "2",
-      "name": "Songs",
-      "allVideos": [
-        {
-          "id": 1,
-          "caption": "Luminar Onam",
-          "thumbnail": "https://i.postimg.cc/rmKgy972/MV5-BNj-M0-Yz-E0-M2-Mt-NWUy-Zi00-OWE3-LWJj-Yzct-ZDlm-Y2-Nm-NTdi-MDJh-Xk-Ey-Xk-Fqc-Gde-QXVy-MTE3-NTk1-Nzc1-V1.jpg",
-          "url": "https://www.youtube.com/embed/nYEoxne_20Y"
-        },
-        {
-          "id": "lmzzhmd3",
-          "caption": "Heeriye (Official Video) Jasleen Royal ft Arijit Singh| Dulquer Salmaan",
-          "thumbnail": "https://i.ytimg.com/vi/oxvq9jiLjw4/maxresdefault.jpg",
-          "url": "https://www.youtube.com/embed/4vSFXTEP35Q"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "name": "Work out videos",
-      "allVideos": []
-    },
-    {
-      "id": "4",
-      "name": "Interviews",
-      "allVideos": []
-    },
-    {
-      "id": "AjCRTLP",
-      "name": "Sports",
-      "allVideos": []
-    }
-  ],
-  "histories": [
-    {
-      "id": "ln9zguga",
-      "cardName": "27 September 2023 Current Affairs by GK Today",
-      "url": "https://www.youtube.com/embed/X4RGrYhoICU",
-      "date": "October 276th 2023,12:43:27 PM"
-    },
-    {
-      "id": "ln9zj8p7",
-      "cardName": "Dhyan Sreenivasan Exclusive Special Interview",
-      "url": "https://www.youtube.com/embed/1ORo06DhFrY",
-      "date": "October 276th 2023,12:45:19 PM"
-    },
-    {
-      "id": "ln9znm9o",
-      "cardName": "27 September 2023 Current Affairs MCQ for All Govt Exams",
-      "url": "https://www.youtube.com/embed/6RvxB_cu5lU",
-      "date": "October 276th 2023,12:48:43 PM"
-    },
-    {
-      "id": "lnbbnad6",
-      "cardName": "Heeriye (Official Video) Jasleen Royal ft Arijit Singh| Dulquer Salmaan",
-      "url": "https://www.youtube.com/embed/4vSFXTEP35Q",
-      "date": "October 277th 2023,11:12:09 AM"
-    },
-    {
-      "id": "lnbbnib0",
-      "cardName": "August 2023 Monthly Current Affairs 2023 Best 500 MCQ - August 2023",
-      "url": "https://www.youtube.com/embed/Iz6veUV8a_o",
-      "date": "October 277th 2023,11:12:20 AM"
-    },
-    {
-      "id": "lnbbo44c",
-      "cardName": "Neela Nilave - Video Song | RDX ",
-      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
-      "date": "October 277th 2023,11:12:48 AM"
-    },
-    {
-      "id": "lnbbocdo",
-      "cardName": "Luminar Onam",
-      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
-      "date": "October 277th 2023,11:12:59 AM"
-    },
-    {
-      "id": "lnbbox70",
-      "cardName": "Luminar Onam",
-      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
-      "date": "October 277th 2023,11:13:26 AM"
-    },
-    {
-      "id": "lnbbr63p",
-      "cardName": "Luminar Onam",
-      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
-      "date": "October 277th 2023,11:15:11 AM"
-    },
-    {
-      "id": "lnbbu3mj",
-      "cardName": "BICEP WORK OUT",
-      "url": "https://www.youtube.com/embed/mQPh-QYrp3E",
-      "date": "October 277th 2023,11:17:27 AM"
-    },
-    {
-      "id": "lnbchui4",
-      "cardName": "Luminar Onam",
-      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
-      "date": "October 277th 2023,11:35:55 AM"
-    },
-    {
-      "id": "lnbfm8o8",
-      "cardName": "Luminar Onam",
-      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
-      "date": "October 277th 2023,1:03:19 PM"
-    }
-  ]
+  "menu": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Food",
+        "subcategories": [
+          {
+            "name": "NON-VEG",
+            "items": [
+              {
+                "id": 201,
+                "name": "Chicken Biriyani",
+                "price": 2.49,
+                "description":"229 Vodka ,vermouth,lychee juice,fresh lime juice"
+              },
+              {
+                "id": 202,
+                "name": "HIBISCUS RITA",
+                "price": 3.99,
+                "description":"Casamigos Blanco,orange liqueur, hibiscus liqueur, dried hibiscus fresh lime juice"
+              },
+              {
+                "id": 203,
+                "name": "ATLAS",
+                "price": 3.49,
+                "description":"Herradura Anejo, strawberry, lime, agave, club soda cotton candy candy fluff"
+              },
+              {
+                "id": 204,
+                "name": "THE 6TH MAN",
+                "price": 2.49,
+                "description":"D'usse, cointreau, lemon juice, blueberry puree"
+              },
+              {
+                "id": 205,
+                "name": "SMOKED PEACH OLD FASHION",
+                "price": 3.99,
+                "description":"Angles Envy, creme de peach, bitters, cedarwood plank chard peaches,orange essence"
+              },
+              {
+                "id": 206,
+                "name": "SMOKEY LOMA",
+                "price": 3.49,
+                "description":"Mezcal, fresh grapefruit juice, agave, soda"
+              }
+              ,
+              {
+                "id": 207,
+                "name": "SWEET HEAT",
+                "price": 3.49,
+                "description":"Termana Reposado, muddled jalapeno, fresh lime juice, Agave"
+              }
+              ,
+              {
+                "id": 208,
+                "name": "SWEET HEAT",
+                "price": 3.49,
+                "description":"Titos, dragon fruit liqueur, Cointreau, fresh lemon juice, simple"
+              }
+              ,
+              {
+                "id": 209,
+                "name": "SMOKEY LOMA",
+                "price": 3.49,
+                "description":"Termana Reposado, muddled jalapeno, fresh lime juice, Agave"
+              }
+              ,
+              {
+                "id": 210,
+                "name": "SWEET HEAT",
+                "price": 3.49,
+                "description":"Termana Reposado, muddled jalapeno, fresh lime juice, Agave"
+              }
+            ]
+          },
+          {
+            "name": "VEG",
+            "items": [
+              {
+                "id": 301,
+                "name": "VEg Biriyani",
+                "price": 7.99,
+                "description":"Aperol, St Germain, botanical liquor, fresh lime juice, mini brut Moet topper"
+              },
+              {
+                "id": 302,
+                "name": "BAR 42 MARY",
+                "price": 8.49,
+                "description":"Titos, tomato juice, worcestershire, celery salt, black pepper, tabasco, fully loaded"
+              }
+            ]
+          },
+          {
+            "name": "BRED ITEMS",
+            "items": [
+              {
+                "id": 401,
+                "name": "Mint",
+                "price": 15.99,
+                "description":"hgdjfhgsjhfgh dhgfhskfghksfdh fghksfdgk"
+              },
+              {
+                "id": 402,
+                "name": "Watermelon",
+                "price": 15.99,
+                "description":"hgdjfhgsjhfgh dhgfhskfghksfdh fghksfdgk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Drinks",
+        "subcategories": [
+          {
+            "name": "Drinks",
+            "items": [
+              {
+                "id": 201,
+                "name": "LYCHEETINI",
+                "price": 2.49,
+                "description":"229 Vodka ,vermouth,lychee juice,fresh lime juice"
+              },
+              {
+                "id": 202,
+                "name": "HIBISCUS RITA",
+                "price": 3.99,
+                "description":"Casamigos Blanco,orange liqueur, hibiscus liqueur, dried hibiscus fresh lime juice"
+              },
+              {
+                "id": 203,
+                "name": "ATLAS",
+                "price": 3.49,
+                "description":"Herradura Anejo, strawberry, lime, agave, club soda cotton candy candy fluff"
+              },
+              {
+                "id": 204,
+                "name": "THE 6TH MAN",
+                "price": 2.49,
+                "description":"D'usse, cointreau, lemon juice, blueberry puree"
+              },
+              {
+                "id": 205,
+                "name": "SMOKED PEACH OLD FASHION",
+                "price": 3.99,
+                "description":"Angles Envy, creme de peach, bitters, cedarwood plank chard peaches,orange essence"
+              },
+              {
+                "id": 206,
+                "name": "SMOKEY LOMA",
+                "price": 3.49,
+                "description":"Mezcal, fresh grapefruit juice, agave, soda"
+              }
+              ,
+              {
+                "id": 207,
+                "name": "SWEET HEAT",
+                "price": 3.49,
+                "description":"Termana Reposado, muddled jalapeno, fresh lime juice, Agave"
+              }
+              ,
+              {
+                "id": 208,
+                "name": "SWEET HEAT",
+                "price": 3.49,
+                "description":"Titos, dragon fruit liqueur, Cointreau, fresh lemon juice, simple"
+              }
+              ,
+              {
+                "id": 209,
+                "name": "SMOKEY LOMA",
+                "price": 3.49,
+                "description":"Termana Reposado, muddled jalapeno, fresh lime juice, Agave"
+              }
+              ,
+              {
+                "id": 210,
+                "name": "SWEET HEAT",
+                "price": 3.49,
+                "description":"Termana Reposado, muddled jalapeno, fresh lime juice, Agave"
+              }
+            ]
+          },
+          {
+            "name": "Brunch Cocktails",
+            "items": [
+              {
+                "id": 301,
+                "name": "MOET SPRIT",
+                "price": 7.99,
+                "description":"Aperol, St Germain, botanical liquor, fresh lime juice, mini brut Moet topper"
+              },
+              {
+                "id": 302,
+                "name": "BAR 42 MARY",
+                "price": 8.49,
+                "description":"Titos, tomato juice, worcestershire, celery salt, black pepper, tabasco, fully loaded"
+              }
+            ]
+          },
+          {
+            "name": "Hookah Flavors",
+            "items": [
+              {
+                "id": 401,
+                "name": "Mint",
+                "price": 15.99,
+                "description":"hgdjfhgsjhfgh dhgfhskfghksfdh fghksfdgk"
+              },
+              {
+                "id": 402,
+                "name": "Watermelon",
+                "price": 15.99,
+                "description":"hgdjfhgsjhfgh dhgfhskfghksfdh fghksfdgk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "BRUNCH",
+        "subcategories": [
+          {
+            "name": "BRUNCH",
+            "items": [
+              {
+                "id": 201,
+                "name": "Garlic BRead",
+                "price": 2.49,
+                "description":"229 Vodka ,vermouth,lychee juice,fresh lime juice"
+              },
+              {
+                "id": 202,
+                "name": "HIBISCUS RITA",
+                "price": 3.99,
+                "description":"Casamigos Blanco,orange liqueur, hibiscus liqueur, dried hibiscus fresh lime juice"
+              },
+              {
+                "id": 203,
+                "name": "ATLAS",
+                "price": 3.49,
+                "description":"Herradura Anejo, strawberry, lime, agave, club soda cotton candy candy fluff"
+              },
+              {
+                "id": 204,
+                "name": "THE 6TH MAN",
+                "price": 2.49,
+                "description":"D'usse, cointreau, lemon juice, blueberry puree"
+              },
+              {
+                "id": 205,
+                "name": "SMOKED PEACH OLD FASHION",
+                "price": 3.99,
+                "description":"Angles Envy, creme de peach, bitters, cedarwood plank chard peaches,orange essence"
+              },
+              {
+                "id": 206,
+                "name": "SMOKEY LOMA",
+                "price": 3.49,
+                "description":"Mezcal, fresh grapefruit juice, agave, soda"
+              }
+              ,
+              {
+                "id": 207,
+                "name": "SWEET HEAT",
+                "price": 3.49,
+                "description":"Termana Reposado, muddled jalapeno, fresh lime juice, Agave"
+              }
+              ,
+              {
+                "id": 208,
+                "name": "SWEET HEAT",
+                "price": 3.49,
+                "description":"Titos, dragon fruit liqueur, Cointreau, fresh lemon juice, simple"
+              }
+              ,
+              {
+                "id": 209,
+                "name": "SMOKEY LOMA",
+                "price": 3.49,
+                "description":"Termana Reposado, muddled jalapeno, fresh lime juice, Agave"
+              }
+              ,
+              {
+                "id": 210,
+                "name": "SWEET HEAT",
+                "price": 3.49,
+                "description":"Termana Reposado, muddled jalapeno, fresh lime juice, Agave"
+              }
+            ]
+          },
+          {
+            "name": "Brunch Cocktails",
+            "items": [
+              {
+                "id": 301,
+                "name": "MOET SPRIT",
+                "price": 7.99,
+                "description":"Aperol, St Germain, botanical liquor, fresh lime juice, mini brut Moet topper"
+              },
+              {
+                "id": 302,
+                "name": "BAR 42 MARY",
+                "price": 8.49,
+                "description":"Titos, tomato juice, worcestershire, celery salt, black pepper, tabasco, fully loaded"
+              }
+            ]
+          },
+          {
+            "name": "Hookah Flavors",
+            "items": [
+              {
+                "id": 401,
+                "name": "Mint",
+                "price": 15.99,
+                "description":"hgdjfhgsjhfgh dhgfhskfghksfdh fghksfdgk"
+              },
+              {
+                "id": 402,
+                "name": "Watermelon",
+                "price": 15.99,
+                "description":"hgdjfhgsjhfgh dhgfhskfghksfdh fghksfdgk"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
