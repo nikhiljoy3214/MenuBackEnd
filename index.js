@@ -2,7 +2,7 @@
 const jsonserver=require('json-server')
 
 
-//server creation
+//server creations
 const server=jsonserver.create()
 
 
